@@ -8,3 +8,12 @@ demo
 
 ## MAVEN
 1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
+
+## 平台
+* 配置文件
+  * g4server.properties   	端口及服务名
+  * jdbc.properties			数据库地址
+* Item 2
+  * Item 2a
+
+1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
