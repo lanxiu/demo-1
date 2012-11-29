@@ -5,6 +5,8 @@ demo
 2. [Using Pull Requests]（https://help.github.com/articles/using-pull-requests）
    * 增加 当前目录文件 git add .
    * [GIT svn简明对比手册 英文](http://git.or.cz/course/svn.html)
+   * [GIT 小乌龟 图文](http://www.ihiro.org/use-git-synchronize-code-to-github)   
+   
    
    
 
