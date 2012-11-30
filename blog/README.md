@@ -21,3 +21,6 @@ demo
   * Item 2a
 
 1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
+
+## 网站配色
+*  [国际化颜色](http://www.sj33.cn/digital/wysj/200603/7775.html)
