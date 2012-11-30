@@ -7,7 +7,10 @@
 
 1. [activiti jar 包仓库](https://maven.alfresco.com/nexus/content/groups/public/)
 2. Item 2
+3. [activiti mysql 配置](http://forums.activiti.org/en/viewtopic.php?f=6&t=4698)
 3. [新版Activiti Modeler简介](http://www.kafeitu.me/activiti/2012/09/30/new-version-of-activiti-modeler.html)
+4. 
+5. 
 
 
 http://www.kafeitu.me/activiti/2012/09/30/new-version-of-activiti-modeler.html
