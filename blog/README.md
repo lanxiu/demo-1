@@ -23,4 +23,4 @@
 
 ## 网站配色
 1. [国际化颜色](http://www.sj33.cn/digital/wysj/200603/7775.html)
-2. [最全的 Twitter Bootstrap 开发资源清单]（http://www.oschina.net/news/35251/twitter-bootstrap-resources）
+2. [最全的 Twitter Bootstrap 开发资源清单](http://www.oschina.net/news/35251/twitter-bootstrap-resources)
