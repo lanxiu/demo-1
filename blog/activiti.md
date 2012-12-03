@@ -11,7 +11,12 @@
 3. [新版Activiti Modeler简介](http://www.kafeitu.me/activiti/2012/09/30/new-version-of-activiti-modeler.html)
 4. 
 5. 
+6. 
+7. 
 
+## activiti调试笔记
+1. 5.10 模块 activiti-webapp-explorer2 mvn tomcat:run 启动缺少 imgscalr-lib:jar:3.1 包
+2. 
 
 http://www.kafeitu.me/activiti/2012/09/30/new-version-of-activiti-modeler.html
 
