@@ -4,7 +4,11 @@
    * 增加 当前目录文件 git add .
    * [GIT svn简明对比手册 英文](http://git.or.cz/course/svn.html)
    * [GIT 小乌龟 图文](http://www.ihiro.org/use-git-synchronize-code-to-github)   
-   
+
+##Sublime
+1. [中文支持](http://www.fuzhaopeng.com/2012/sublime-text-2-with-gb2312-gbk-support/)
+2. 
+
    
    
 
