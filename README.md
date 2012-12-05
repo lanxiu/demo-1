@@ -8,6 +8,11 @@ demo
 
 [jqgrid select](http://www.trirand.com/blog/phpjqgrid/examples/selection/selectedrow_client/default.php)
 
+
+[jqSuitePHP jquery-ui-bootstrap](http://127.0.0.1/demo/project/jqSuitePHP_4_4_2_0/)
+
+
+
 * restlet 问题
 [ERROR] Failed to execute goal on project activiti-webapp-rest2: Could not resol
 ve dependencies for project org.activiti:activiti-webapp-rest2:war:5.10: The fol
