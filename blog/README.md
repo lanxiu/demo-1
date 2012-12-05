@@ -7,7 +7,7 @@
 
 ##Sublime
 1. [中文支持](http://www.fuzhaopeng.com/2012/sublime-text-2-with-gb2312-gbk-support/)
-2. 
+2. [简明手册](http://lucifr.com/139225/sublime-text-2-tricks-and-tips/)
 
    
    
