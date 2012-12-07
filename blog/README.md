@@ -1,9 +1,12 @@
 ## GIT说明
 1. [工作协同](http://www.worldhello.net/gotgithub/04-work-with-others/010-fork-and-pull.html)
+2. [git常用 命令](http://www.xbc.me/git-commands/)
+3. 
 2. [Using Pull Requests]（https://help.github.com/articles/using-pull-requests）
    * 增加 当前目录文件 git add .
    * [GIT svn简明对比手册 英文](http://git.or.cz/course/svn.html)
    * [GIT 小乌龟 图文](http://www.ihiro.org/use-git-synchronize-code-to-github)   
+   * 
 
 ##Sublime
 1. [中文支持](http://www.fuzhaopeng.com/2012/sublime-text-2-with-gb2312-gbk-support/)
