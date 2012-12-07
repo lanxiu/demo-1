@@ -1,3 +1,8 @@
-# How does it work?
+# 报工平台
 
-Enter Text in Markdown format.
+## 日历填报
+* 填写
+  * 只能填写三条
+    * 只能填写三条 
+* 提交
+  * 可选择
