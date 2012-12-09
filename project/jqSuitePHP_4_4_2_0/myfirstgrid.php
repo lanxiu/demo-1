@@ -12,7 +12,7 @@ $conn->query("SET NAMES utf8");
 // Create the jqGrid instance
 $grid = new jqGridRender($conn);
 // Write the SQL Query
-$grid->SelectCommand = 'SELECT OrderID, OrderDate, CustomerID, Freight, ShipName FROM orders';
+$grid->SelectCommand = 'SELECT OrderID , OrderDate, CustomerID, Freight, ShipName FROM orders';
 // set the ouput format to json
 $grid->dataType = 'json';
 // Let the grid create the model
