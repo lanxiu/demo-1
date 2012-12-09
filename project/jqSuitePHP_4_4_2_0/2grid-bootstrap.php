@@ -6,8 +6,9 @@
 
 	<!--
 	<link rel="stylesheet" type="text/css" media="screen" href="themes/redmond/jquery-ui-custom.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="themes/ui.jqgrid.css" />
 	-->
+	<link rel="stylesheet" type="text/css" media="screen" href="themes/ui.jqgrid.css" />
+	
 	<link type="text/css" href="jquery-ui-bootstrap/css/custom-theme/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
     <link href="jquery-ui-bootstrap/bootstrap/bootstrap.css" rel="stylesheet">
 
