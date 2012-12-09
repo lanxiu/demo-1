@@ -42,3 +42,4 @@
 2. [最全的 Twitter Bootstrap 开发资源清单](http://www.oschina.net/news/35251/twitter-bootstrap-resources)
 3. [jquery ui bootstrap](http://addyosmani.com/blog/jquery-ui-bootstrap-0-2-released/)
 4. [朗信](http://www.lansunmedia.com/index.php)
+5. [PT mind](http://ptmind.com/index.html)
