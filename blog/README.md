@@ -37,6 +37,7 @@
 1. firebug lite的引入: firebug-lite目录下sandbox目录
 2. fullcalendar js 调整开始是星期几 第62行 firstDay：5 
 3. [jqgrid treegrid docs](http://www.trirand.com/jqgridwiki/doku.php?id=wiki:treegrid)
+4. [jqgrid treegrid](http://www.trirand.com/blog/?page_id=393/treegrid/version-4-0-0-onexpand-event/)
 
 ## 网站配色
 1. [国际化颜色](http://www.sj33.cn/digital/wysj/200603/7775.html)
