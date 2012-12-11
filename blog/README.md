@@ -32,6 +32,12 @@
 
 ## joomla
 1. [joomla template](http://sydney.joomladay.org.au/images/presos/how_to_build_a_template.pdf)
+2. 
+3. 
+
+## github job
+1. [github job](https://jobs.github.com/positions)
+2. 
 
 ## js
 1. firebug lite的引入: firebug-lite目录下sandbox目录
