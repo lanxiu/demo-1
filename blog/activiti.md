@@ -1,5 +1,10 @@
 # 工作流
 
+## springside4
+1. git checkout RC4.0.0版本
+2. 先在springside4\modules\test目录下运行mvn package,然后将springside-test-4.0.0.RC4.jar包上传。(可先将.m2仓库下对应目录清空)
+3. 再在springside4\modules\core目录下运行mvn package,然后将springside-core-4.0.0.RC4.jar包上传
+4. 
 
 
 ## MAVEN
