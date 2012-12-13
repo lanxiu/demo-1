@@ -1,3 +1,10 @@
+## 模块划分
+
+###报送ERP工时
+1. PROJECT-HOME/WTR/ItemReport.jsp
+2. 根据角色选择不同的弹出框
+
+
 ## 日历填报
 
 ###填写
