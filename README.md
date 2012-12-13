@@ -1,3 +1,7 @@
+## 2012-12-13
+1. [如何为 maven项目 添加一个公用的maven仓库地址](blog/activiti.md)
+
+
 ## 2012-12-12
 1. [SpringSide RC4 项目跑通--OK](blog/activiti.md)
 2. [基于上面DEMO 实现个ROP 项目 PDF链接](http://www.iteye.com/topic/1125834)
