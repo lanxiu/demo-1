@@ -1,5 +1,5 @@
 ## 2012-12-12
-1. [SpringSide RC4 项目跑通--OK](../blob/master/blog/activiti.md)
+1. [SpringSide RC4 项目跑通--OK](master/blog/activiti.md)
 2. [基于上面DEMO 实现个ROP 项目 PDF链接](http://www.iteye.com/topic/1125834)
 
 ## 2012-12-11
