@@ -1,7 +1,7 @@
 # 工作流
 
 ## 依赖包问题
-1. [spymemcached 官方maven ](http://files.couchbase.com/maven2/)
+1. [spymemcached 官方maven地址 ](http://files.couchbase.com/maven2/)
 
 ## springside4
 1. git checkout RC4.0.0版本
