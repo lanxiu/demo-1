@@ -1,3 +1,6 @@
+## 2012-12-14
+1. [笔记本上 SpringSide RC4跑通](blog/activiti.md)----解决方法:将regository清空用代理重下
+
 ## 2012-12-13
 1. [如何为 maven项目 添加一个公用的maven仓库地址](blog/activiti.md)----待解决
 2. [mvn -Dmaven.surefire.debug test](http://maven.apache.org/plugins/maven-surefire-plugin/examples/debugging.html)
