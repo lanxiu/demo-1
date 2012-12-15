@@ -1,3 +1,6 @@
+## 2012-12-15
+1. [git图形客户端](blog/activiti.md)
+
 ## 2012-12-14
 1. [笔记本上 SpringSide RC4跑通](blog/activiti.md)----将regository清空用代理重下
 2. [将SpringSide RC4切换到 mysql](blog/activiti.md)----
