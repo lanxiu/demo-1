@@ -3,7 +3,7 @@
 
 ## 2012-12-14
 1. [笔记本上 SpringSide RC4跑通](blog/activiti.md)----将regository清空用代理重下
-2. [将SpringSide RC4切换到 mysql](blog/activiti.md)----
+2. [将SpringSide RC4切换到 mysql](https://github.com/springside/springside4/blob/master/examples/quickstart/src/main/resources/sql/mysql/schema.sql)----用master版本下的schema.sql和import-data.sql脚本执行
 
 ## 2012-12-13
 1. [如何为 maven项目 添加一个公用的maven仓库地址](blog/activiti.md)----待解决
