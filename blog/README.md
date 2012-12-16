@@ -1,7 +1,7 @@
 ## GIT说明
 1. [工作协同](http://www.worldhello.net/gotgithub/04-work-with-others/010-fork-and-pull.html)
 2. [git常用 命令](http://www.xbc.me/git-commands/)
-3. 
+3. [git 简明操作手册](http://gitimmersion.googol.im/lab_13.html)
 2. [Using Pull Requests]（https://help.github.com/articles/using-pull-requests）
    * 增加 当前目录文件 git add .
    * [GIT svn简明对比手册 英文](http://git.or.cz/course/svn.html)
