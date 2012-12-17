@@ -1,5 +1,5 @@
 ## 2012-12-17
-1. [git pull origin v4RC](http://stackoverflow.com/questions/4235964/what-can-i-do-when-git-push-fails-with-local-out-of-date)
+1. [git pull origin v4RC](http://stackoverflow.com/questions/4235964/what-can-i-do-when-git-push-fails-with-local-out-of-date)--OK
 
 ## 2012-12-15
 1. [git图形客户端](blog/activiti.md)
