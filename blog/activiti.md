@@ -29,3 +29,6 @@
 
 http://www.kafeitu.me/activiti/2012/09/30/new-version-of-activiti-modeler.html
 
+## Scheduler 
+1. [Spring 3.1.2 Quartz1.8.6 demo ](http://www.mkyong.com/spring/spring-quartz-scheduler-example/)
+
