@@ -1,4 +1,7 @@
 ## 2012-12-17
+1. [运行 showcase先要上传 springside-extension-4.0.0.RC4.jar包](blog/activiti.md)
+
+## 2012-12-17
 1. [git pull origin v4RC](http://stackoverflow.com/questions/4235964/what-can-i-do-when-git-push-fails-with-local-out-of-date)--OK
 
 ## 2012-12-15
