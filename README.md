@@ -1,3 +1,6 @@
+## 2012-12-21
+1. [memcached win客户端 会自动启动不要再启!](http://neo.com/)
+
 ## 2012-12-19
 1. [neo](http://neo.com/)
 
