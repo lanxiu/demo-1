@@ -1,0 +1,143 @@
+prompt PL/SQL Developer import file
+prompt Created on 2012年12月21日 by Administrator
+set feedback off
+set define off
+prompt Creating SS_ROLE...
+create table SS_ROLE
+(
+  id          NUMBER not null,
+  name        VARCHAR2(255) not null,
+  permissions VARCHAR2(255)
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+
+prompt Creating SS_TEAM...
+create table SS_TEAM
+(
+  id        NUMBER not null,
+  name      VARCHAR2(255),
+  master_id NUMBER
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+
+prompt Creating SS_USER...
+create table SS_USER
+(
+  id         NUMBER not null,
+  login_name VARCHAR2(255) not null,
+  name       VARCHAR2(64),
+  password   VARCHAR2(255),
+  salt       VARCHAR2(64),
+  email      VARCHAR2(128),
+  status     VARCHAR2(32),
+  team_id    NUMBER
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+
+prompt Creating SS_USER_ROLE...
+create table SS_USER_ROLE
+(
+  user_id NUMBER not null,
+  role_id NUMBER not null
+)
+tablespace USERS
+  pctfree 10
+  initrans 1
+  maxtrans 255
+  storage
+  (
+    initial 64K
+    minextents 1
+    maxextents unlimited
+  );
+
+prompt Disabling triggers for SS_ROLE...
+alter table SS_ROLE disable all triggers;
+prompt Disabling triggers for SS_TEAM...
+alter table SS_TEAM disable all triggers;
+prompt Disabling triggers for SS_USER...
+alter table SS_USER disable all triggers;
+prompt Disabling triggers for SS_USER_ROLE...
+alter table SS_USER_ROLE disable all triggers;
+prompt Loading SS_ROLE...
+insert into SS_ROLE (id, name, permissions)
+values (1, 'Admin', 'user:view,user:edit');
+insert into SS_ROLE (id, name, permissions)
+values (2, 'User', 'user:view');
+commit;
+prompt 2 records loaded
+prompt Loading SS_TEAM...
+insert into SS_TEAM (id, name, master_id)
+values (1, 'Dolphin', 1);
+commit;
+prompt 1 records loaded
+prompt Loading SS_USER...
+insert into SS_USER (id, login_name, name, password, salt, email, status, team_id)
+values (1, 'admin', 'Admin', '691b14d79bf0fa2215f155235df5e670b64394cc', '7efbd59d9741d34f', 'admin@springside.org.cn', 'enabled', 1);
+insert into SS_USER (id, login_name, name, password, salt, email, status, team_id)
+values (2, 'user', 'Calvin', '2488aa0c31c624687bd9928e0a5d29e7d1ed520b', '6d65d24122c30500', 'user@springside.org.cn', 'enabled', 1);
+insert into SS_USER (id, login_name, name, password, salt, email, status, team_id)
+values (3, 'user2', 'Jack', '2488aa0c31c624687bd9928e0a5d29e7d1ed520b', '6d65d24122c30500', 'jack@springside.org.cn', 'enabled', 1);
+insert into SS_USER (id, login_name, name, password, salt, email, status, team_id)
+values (4, 'user3', 'Kate', '2488aa0c31c624687bd9928e0a5d29e7d1ed520b', '6d65d24122c30500', 'kate@springside.org.cn', 'enabled', 1);
+insert into SS_USER (id, login_name, name, password, salt, email, status, team_id)
+values (5, 'user4', 'Sawyer', '2488aa0c31c624687bd9928e0a5d29e7d1ed520b', '6d65d24122c30500', 'sawyer@springside.org.cn', 'enabled', 1);
+insert into SS_USER (id, login_name, name, password, salt, email, status, team_id)
+values (6, 'user5', 'Ben', '2488aa0c31c624687bd9928e0a5d29e7d1ed520b', '6d65d24122c30500', 'ben@springside.org.cn', 'enabled', 1);
+commit;
+prompt 6 records loaded
+prompt Loading SS_USER_ROLE...
+insert into SS_USER_ROLE (user_id, role_id)
+values (1, 1);
+insert into SS_USER_ROLE (user_id, role_id)
+values (1, 2);
+insert into SS_USER_ROLE (user_id, role_id)
+values (2, 2);
+insert into SS_USER_ROLE (user_id, role_id)
+values (3, 2);
+insert into SS_USER_ROLE (user_id, role_id)
+values (4, 2);
+insert into SS_USER_ROLE (user_id, role_id)
+values (5, 2);
+insert into SS_USER_ROLE (user_id, role_id)
+values (6, 2);
+commit;
+prompt 7 records loaded
+prompt Enabling triggers for SS_ROLE...
+alter table SS_ROLE enable all triggers;
+prompt Enabling triggers for SS_TEAM...
+alter table SS_TEAM enable all triggers;
+prompt Enabling triggers for SS_USER...
+alter table SS_USER enable all triggers;
+prompt Enabling triggers for SS_USER_ROLE...
+alter table SS_USER_ROLE enable all triggers;
+set feedback on
+set define on
+prompt Done.
