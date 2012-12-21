@@ -1,0 +1,25 @@
+-- Create the user 
+create user MW_SYS
+  default tablespace USERS
+  temporary tablespace TEMP
+  profile DEFAULT
+  quota unlimited on users;
+-- Grant/Revoke role privileges 
+grant connect to MW_SYS;
+grant dba to MW_SYS;
+-- Grant/Revoke system privileges 
+grant create database link to MW_SYS;
+grant create procedure to MW_SYS;
+grant create profile to MW_SYS;
+grant create role to MW_SYS;
+grant create sequence to MW_SYS;
+grant create session to MW_SYS;
+grant create snapshot to MW_SYS;
+grant create table to MW_SYS;
+grant create trigger to MW_SYS;
+grant create type to MW_SYS;
+grant create view to MW_SYS;
+grant select any dictionary to MW_SYS;
+grant select any sequence to MW_SYS;
+grant select any table to MW_SYS;
+grant unlimited tablespace to MW_SYS;
