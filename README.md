@@ -1,6 +1,10 @@
 ## 2012-12-22
 1. michaelfly0621@hotmail.com(168502345)--kettle
-2. 
+2. mvn tomcat:run -Dmaven.tomcat.port=8088
+3. 
+4. 
+5. 
+
 
 
 ## 2012-12-21
