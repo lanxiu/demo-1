@@ -1,3 +1,8 @@
+## 2012-12-22
+1. michaelfly0621@hotmail.com(168502345)
+2. 
+
+
 ## 2012-12-21
 1. [memcached win客户端 会自动启动不要再启!](http://neo.com/)
 
