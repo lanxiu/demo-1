@@ -1,9 +1,9 @@
 ## git
-### [git.md](git.md)
+### [git](git.md)
 
-### [activiti.md](activiti.md)
+### [activiti](activiti.md)
 
-### [ss4.md](ss4.md)
+### [ss4](ss4.md)
 
 ### [activiti.md](activiti.md)
 
