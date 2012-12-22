@@ -1,8 +1,7 @@
 ## git
-1. [git.md](git.md)
+### [git.md](git.md)
 
-## activiti
-1. [activiti.md](activiti.md)
+### [activiti.md](activiti.md)
 
 ##Sublime
 1. [中文支持](http://www.fuzhaopeng.com/2012/sublime-text-2-with-gb2312-gbk-support/)
