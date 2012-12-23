@@ -1,3 +1,6 @@
+## 2012-12-23
+1. git 删除的文件如何提交
+
 ## 2012-12-22
 1. michaelfly0621@hotmail.com(168502345)--kettle
 2. mvn tomcat:run -Dmaven.tomcat.port=8088
