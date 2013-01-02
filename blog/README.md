@@ -3,7 +3,6 @@
 ## [平台](g4.md)----[joomla](joomla.md)----[sublime](sublime.md)
 ## [quartz](quartz.md)----[maven](maven.md)----[sublime](sublime.md)
 
-1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
 
 
 ## github job
