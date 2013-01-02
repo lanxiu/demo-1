@@ -1,5 +1,5 @@
 ## [git](git.md)----[activiti](activiti.md)----[ss4](ss4.md)
-## [quartz](quartz.md)----[qu](activiti.md)----[ss4](ss4.md)
+## [quartz](quartz.md)----[maven](maven.md)----[ss4](ss4.md)
 
 ##Sublime
 1. [中文支持](http://www.fuzhaopeng.com/2012/sublime-text-2-with-gb2312-gbk-support/)
