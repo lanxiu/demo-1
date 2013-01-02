@@ -18,10 +18,6 @@
 
 1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
 
-## joomla
-1. [joomla template](http://sydney.joomladay.org.au/images/presos/how_to_build_a_template.pdf)
-2. 
-3. 
 
 ## github job
 1. [github job](https://jobs.github.com/positions)
