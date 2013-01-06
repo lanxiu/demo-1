@@ -8,3 +8,4 @@
 ## CXF
 1. WebService地址设置:application.functional.
 2. [Apache CXF Web Service 教程.ppt](http://www.open-open.com/doc/view/031c0c40b42943ce85acac6278a68987)
+3. 客户端配置文件:applicationContext-soap-server.xml
