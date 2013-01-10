@@ -5,7 +5,15 @@
 4. 启动springside4\support\h2目录下h2数据库
 5. springside4\examples\quickstart目录下 mvn tomcat:run 启动OK!
 
+## spring test
+1. [spring test](http://blog.springsource.org/2012/11/07/spring-framework-3-2-rc1-new-testing-features/)
+2. [Apache CXF Web Service 教程.ppt](http://blog.springsource.org/2012/11/07/spring-framework-3-2-rc1-new-testing-features/)
+3. 客户端配置文件:applicationContext-soap-server.xml
+4. 
+
 ## CXF
 1. WebService地址设置:application.functional.
 2. [Apache CXF Web Service 教程.ppt](http://www.open-open.com/doc/view/031c0c40b42943ce85acac6278a68987)
 3. 客户端配置文件:applicationContext-soap-server.xml
+4. 
+5. 
