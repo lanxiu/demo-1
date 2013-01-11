@@ -6,7 +6,7 @@
 5. [git remote-branch](http://stackoverflow.com/questions/945654/git-checkout-on-a-remote-branch-does-not-work)
 6. git 强制 push : git push origin master --force
 7. git 恢复删除的文件 git checkout file
-8. 如何将本地项目上传大一个新分支
+8. 如何将本地项目上传大一个新分支; 首先新建$git branch test,第二$ git push origin test:test;
 9. 
 10. 
 11. 
