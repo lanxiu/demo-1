@@ -8,7 +8,7 @@
 7. git 恢复删除的文件 git checkout file
 8. 如何将本地项目上传到一个新分支; 首先新建git branch test,第二 git push origin test:test;
 9. 切换到某一分支 git checkout -b test;
-10. 
+10. [git常用命令](http://blog.csdn.net/sunboy_2050/article/details/7529022)
 11. 
 12. 
 2. [Using Pull Requests](https://help.github.com/articles/using-pull-requests)
