@@ -7,7 +7,7 @@
 6. git 强制 push : git push origin master --force
 7. git 恢复删除的文件 git checkout file
 8. 如何将本地项目上传到一个新分支; 首先新建git branch test,第二 git push origin test:test;
-9. 切换到某一分支 git checkout -b test
+9. 切换到某一分支 git checkout -b test;
 10. 
 11. 
 12. 
