@@ -1,3 +1,6 @@
+## 2013-01-12
+1. exit-web-framework 生成eclipse项目
+
 ## 2013-01-03
 1. git 如何 push request
 
