@@ -4,3 +4,17 @@
 3. [new Proxy Repository](http://www.andrejkoelewijn.com/wp/2010/03/09/getting-started-with-nexus-maven-repository-manager/)
 4. [mvn hub](http://mavenhub.com/mvn/central)
 5. [versioneye](https://www.versioneye.com/package/org~springframework--spring-test/version/0)
+6. 在settings.xml中设置代理
+
+    mirror
+    
+    id spymemcached id
+    
+      <mirrorOf>*</mirrorOf>
+      
+      <name>Human Readable Name for this Mirror.</name>
+      
+      <url>http://files.couchbase.com/maven2/spy/spymemcached/</url>
+      
+    </mirror>
+7. 
