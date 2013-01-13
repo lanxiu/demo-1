@@ -1,3 +1,6 @@
+## 2013-01-13
+1. jnuc093-springside4导出为 笔记本本地 s4项目 切换到新v4rc_v1项目
+
 ## 2013-01-12
 1. exit-web-framework 生成eclipse项目
 
