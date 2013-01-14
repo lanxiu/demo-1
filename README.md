@@ -2,7 +2,7 @@
 1. 笔记本上数据库 设置为wtr
 2. pom 暂时注释掉 httpclient
 3. 台式机上 加上面的jar 包
-4. 台式机上加 http://files.couchbase.com/maven2/spy/spymemcached/ 私服外挂--待检验
+4. 台式机上加 http://files.couchbase.com/maven2/spy/spymemcached/ 私服外挂----Testing
 
 ## 2013-01-13
 1. jnuc093-springside4导出为 笔记本本地 s4项目 切换到新v4rc_v1项目
