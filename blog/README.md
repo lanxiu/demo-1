@@ -1,41 +1,11 @@
-## GIT说明
-1. [工作协同](http://www.worldhello.net/gotgithub/04-work-with-others/010-fork-and-pull.html)
-2. [git常用 命令](http://www.xbc.me/git-commands/)
-3. [git 简明操作手册 EDGE CASE](http://gitimmersion.googol.im/lab_13.html)
-4. [Git 分支 - 何谓分支](http://git-scm.com/book/zh/Git-%E5%88%86%E6%94%AF-%E4%BD%95%E8%B0%93%E5%88%86%E6%94%AF)
-5. [git remote-branch](http://stackoverflow.com/questions/945654/git-checkout-on-a-remote-branch-does-not-work)
-2. [Using Pull Requests]（https://help.github.com/articles/using-pull-requests）
-   * 增加 当前目录文件 git add .
-   * [GIT svn简明对比手册 英文](http://git.or.cz/course/svn.html)
-   * [GIT 小乌龟 图文](http://www.ihiro.org/use-git-synchronize-code-to-github)   
-   * 
+## [git](git.md)----[activiti](activiti.md)----[ss4](ss4.md)
+## [quartz](quartz.md)----[maven](maven.md)----[sublime](sublime.md)
+## [G平台](g4.md)----[joomla](joomla.md)----[cloud](cloud.md)
+## [quartz](quartz.md)----[maven](maven.md)----[sublime](sublime.md)
 
-##Sublime
-1. [中文支持](http://www.fuzhaopeng.com/2012/sublime-text-2-with-gb2312-gbk-support/)
-2. [简明手册](http://lucifr.com/139225/sublime-text-2-tricks-and-tips/)
-3. [破解](http://www.hphq.net/Marketing/Designs/7.html)
-4. [jerryQu的小站 几个插件介绍](http://www.imququ.com/post/i_love_sublime-text-2.html)
-5. [sublime快捷键](http://www.cnblogs.com/rollenholt/archive/2012/07/30/2616089.html)
 
-   
-   
 
-## MAVEN
-1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
 
-## 平台
-* 配置文件
-  * g4server.properties   	端口及服务名
-  * jdbc.properties			数据库地址
-* 平台监控
-  * [javamelody](http://my.oschina.net/noahxiao/blog/75463?p=2#comments)
-
-1. [MAVEN插件下载地址](http://repo1.maven.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.7.1/)
-
-## joomla
-1. [joomla template](http://sydney.joomladay.org.au/images/presos/how_to_build_a_template.pdf)
-2. 
-3. 
 
 ## github job
 1. [github job](https://jobs.github.com/positions)

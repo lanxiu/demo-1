@@ -1,3 +1,24 @@
+## 2013-01-13
+1. jnuc093-springside4导出为 笔记本本地 s4项目 切换到新v4rc_v1项目
+
+## 2013-01-14
+1. 笔记本上数据库 设置为wtr
+2. pom 暂时注释掉 httpclient
+3. 台式机上 加上面的jar 包
+4. 台式机上加 http://files.couchbase.com/maven2/spy/spymemcached/ 私服外挂----Testing
+
+## 2013-01-13
+1. jnuc093-springside4导出为 笔记本本地 s4项目 切换到新v4rc_v1项目
+
+## 2013-01-12
+1. exit-web-framework 生成eclipse项目
+
+## 2013-01-03
+1. git 如何 push request
+
+## 2012-12-23
+1. git 删除的文件如何提交
+
 ## 2012-12-22
 1. michaelfly0621@hotmail.com(168502345)--kettle
 2. mvn tomcat:run -Dmaven.tomcat.port=8088
