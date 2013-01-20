@@ -1,5 +1,6 @@
 ## 2013-01-20
-1. git push orgin master/ git pull origin master
+1. 重要的命令 git push orgin master/ git pull origin master。
+2. c/wamp/www目录需要经常执行以上命令。
 
 ## 2013-01-13
 1. jnuc093-springside4导出为 笔记本本地 s4项目 切换到新v4rc_v1项目
