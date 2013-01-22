@@ -1,3 +1,7 @@
+## 首页配置
+1. spring-mvc.xml====mvc:view-controller path="/" view-name="index"/
+2. 先在springside4\modules\test目录下运行mvn package,然后将springside-test-4.0.0.RC4.jar包上传。(可先将.m2仓库下对应目录清空)
+
 ## springside4
 1. git checkout RC4.0.0版本 https://github.com/jnuc093/springside4.git
 2. 先在springside4\modules\test目录下运行mvn package,然后将springside-test-4.0.0.RC4.jar包上传。(可先将.m2仓库下对应目录清空)
