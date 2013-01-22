@@ -1,7 +1,8 @@
 # 工作流
 
-## 依赖包问题
-1. [spymemcached 官方maven地址 ](http://files.couchbase.com/maven2/)
+## 配置文件
+1. 首页配置 spring-mvc.xml mvc:view-controller path="/" view-name="redirect:/login/" 
+2. 
 
 ## springside4
 1. git checkout RC4.0.0版本 https://github.com/jnuc093/springside4.git
