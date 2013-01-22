@@ -1,7 +1,11 @@
 ## 首页配置
 1. spring-mvc.xml====mvc:view-controller path="/" view-name="index"/
-2. 222
-3. 333
+2. decorators.xml====文件加入excludes--index
+3. spring-mvc.xml====mvc:view-controller path="/index" view-name="index2"
+4. 在index2.jsp页面中 form action调用 login
+5. 
+
+
 
 
 ## springside4
