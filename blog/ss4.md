@@ -1,9 +1,12 @@
+
+http://localhost:8083/showcase/index
+
 ## 首页配置
 1. spring-mvc.xml====注释掉mvc:view-controller path="/" view-name="index"/
 2. decorators.xml====加入excludes--index
 3. spring-mvc.xml====加入mvc:view-controller path="/index" view-name="index2"
 4. index2.jsp页面中 form action调用 login
-5. 
+5. 访问地址改为 http://localhost:8083/showcase/index
 
 
 
