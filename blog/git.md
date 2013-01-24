@@ -10,6 +10,7 @@
 9. 切换到某一分支 git checkout -b test;
 10. [git常用命令](http://blog.csdn.net/sunboy_2050/article/details/7529022)
 11. [cannot-pushto-github-keeping-saying-need-merge](http://stackoverflow.com/questions/10298291/cannot-pushto-github-keeping-saying-need-merge/13448568#13448568)
+12. git中文--git config  --global gui.encoding utf-8
 11. 
 12. 
 2. [Using Pull Requests](https://help.github.com/articles/using-pull-requests)
