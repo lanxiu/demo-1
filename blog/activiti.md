@@ -2,7 +2,7 @@
 
 ## 配置文件
 1. 首页配置 spring-mvc.xml====mvc:view-controller path="/" view-name="redirect:/login/" 
-2. 
+2. [kft-activiti-demo--wiki](https://github.com/henryyan/kft-activiti-demo/wiki)
 
 ## springside4
 1. git checkout RC4.0.0版本 https://github.com/jnuc093/springside4.git
