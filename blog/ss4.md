@@ -11,6 +11,8 @@ http://localhost:8083/showcase/index
 ## showcase的打包问题
 1. spring-mvc.xml====注释掉mvc:view-controller path="/" view-name="index"/
 2. decorators.xml====加入excludes--index
+3. 独立打包问题--将项目放到ss4目录下
+4. 
 
 
 
