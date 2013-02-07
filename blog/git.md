@@ -11,8 +11,10 @@
 10. [git常用命令](http://blog.csdn.net/sunboy_2050/article/details/7529022)
 11. [cannot-pushto-github-keeping-saying-need-merge](http://stackoverflow.com/questions/10298291/cannot-pushto-github-keeping-saying-need-merge/13448568#13448568)
 12. git中文--git config  --global gui.encoding utf-8
+13. [windows 端口查看](http://ywsm.iteye.com/blog/510670)
 11. 
 12. 
+
 2. [Using Pull Requests](https://help.github.com/articles/using-pull-requests)
    * 增加 当前目录文件 git add .
    * [GIT svn简明对比手册 英文](http://git.or.cz/course/svn.html)
