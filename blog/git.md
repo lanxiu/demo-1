@@ -11,7 +11,8 @@
 10. [git常用命令](http://blog.csdn.net/sunboy_2050/article/details/7529022)
 11. [cannot-pushto-github-keeping-saying-need-merge](http://stackoverflow.com/questions/10298291/cannot-pushto-github-keeping-saying-need-merge/13448568#13448568)
 12. git中文--git config  --global gui.encoding utf-8
-13. [windows 端口查看](http://ywsm.iteye.com/blog/510670)
+13. [小窍门--windows 端口查看](http://ywsm.iteye.com/blog/510670)
+14. [小窍门--notepad++右键](http://my.oschina.net/fjxy/blog/83673)
 11. 
 12. 
 
