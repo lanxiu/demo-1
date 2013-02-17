@@ -1,3 +1,5 @@
+http://www.stumbleupon.com/su/27XjEs?email=qinkun1234%40163.com&type=touch-recommend-weekly&variant=default
+
 ## 2013-02-17
 1. 9.42 上安装ftp服务器。
 2. c/wamp/www目录需要经常执行以上命令。
