@@ -1,3 +1,7 @@
+## 2013-02-17
+1. 9.42 上安装ftp服务器。
+2. c/wamp/www目录需要经常执行以上命令。
+
 ## 2013-01-20
 1. 重要的命令 git push orgin master/ git pull origin master。
 2. c/wamp/www目录需要经常执行以上命令。
