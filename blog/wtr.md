@@ -43,7 +43,8 @@
 ## showcase定时任务独立启动
 ### 定时任务
 1. java -jar xxx.war包启动，暂时不实现 管理任务启动。
-2. 
+2.   9.42 上war包部署 独立启动 memcachedSimulator问题
+3. 
 3. 
 
 ### CEP
