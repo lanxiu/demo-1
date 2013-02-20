@@ -19,5 +19,8 @@ http://localhost:8083/showcase/index
 ## dubbo
 1. [dubbo code center](http://code.alibabatech.com/mvn/releases/)--此registory需要add到poxy registory中
 2. 先在springside4\modules\test目录下运行mvn package,然后将springside-test-4.0.0.RC4.jar包上传。(可先将)
+3. 
 
-
+## jqgrid Inline Editing
+1. [jqgrid](http://www.trirand.com/jqgridwiki/doku.php?id=wiki:inline_editing)--此registory需要add到poxy registory中
+2. 先在springside4\modules\test目录下运行mvn package,然后将springside-test-4.0.0.RC4.jar包上传。(可先将)
