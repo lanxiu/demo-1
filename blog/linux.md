@@ -1,7 +1,7 @@
 ## linux
 
-###报送ERP工时
-1. PROJECT-HOME/WTR/ItemReport.jsp
+###基础服务安装
+1. [sftp开通](http://bbs.chinaunix.net/thread-1960082-1-1.html)
 2. 根据角色选择不同的弹出框
 
 
