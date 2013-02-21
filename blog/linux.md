@@ -4,6 +4,7 @@
 1. [sftp开通](http://bbs.chinaunix.net/thread-1960082-1-1.html)
 2. [一键安装包](http://lnmp.org/download.html)
 3. [新建用户](http://www.cnblogs.com/guangbei/archive/2010/04/26/1721163.html)
+4. [lnmp一键安装包](http://lnmp.org/index.html)
 
 
 ## 日历填报
