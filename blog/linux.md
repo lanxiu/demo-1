@@ -2,7 +2,7 @@
 
 ###基础服务安装
 1. [sftp开通](http://bbs.chinaunix.net/thread-1960082-1-1.html)
-2. 根据角色选择不同的弹出框
+2. [一键安装包](http://lnmp.org/download.html)
 
 
 ## 日历填报
