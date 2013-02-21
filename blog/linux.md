@@ -5,7 +5,7 @@
 2. [一键安装包](http://lnmp.org/download.html)
 3. [新建用户](http://www.cnblogs.com/guangbei/archive/2010/04/26/1721163.html)
 4. [lnmp一键安装包](http://lnmp.org/index.html)
-5. [startos](http://www.startos.com/linux/guide/2012071635559_2.html)
+5. [startos centos安装](http://www.startos.com/linux/guide/2012071635559_2.html)
 
 
 ## 日历填报
