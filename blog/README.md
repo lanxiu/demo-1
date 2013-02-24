@@ -4,6 +4,8 @@
 ## [quartz](quartz.md)----[maven](maven.md)----[sublime](sublime.md)--[购物毛衣](http://detail.tmall.com/item.htm?spm=5214.338533.6.9.bz7mD4&id=15817001250)
 ## [dubbo](dubbo.md)----[jqueryui](http://www.trirand.com/jqgridwiki/doku.php?id=wiki%3aevents)
 
+## [jquery-ui](jquery-ui.md)
+
 ## [etl](http://wenku.baidu.com/view/8bfb385377232f60ddcca190.html)----[业务](http://xinxihua.bjx.com.cn/)
 
 
