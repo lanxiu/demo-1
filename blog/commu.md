@@ -1,6 +1,7 @@
 ## 通讯
 1. [wiki-event](http://www.trirand.com/jqgridwiki/doku.php?id=wiki%3aevents)
-2. 
+2. 程旭--83096508
+3. 李郑--15952038816
 
 
 
