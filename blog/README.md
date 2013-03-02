@@ -11,6 +11,7 @@
 ## github job
 1. [数库财务](http://search.51job.com/job/53879492,c.html)
 2. [国睿](http://search.51job.com/job/47127299,c.html)
+3. [再见 hotmail](http://money.163.com/12/0911/14/8B4LGRI200253G87.html)
 2. 
 3. 
 
