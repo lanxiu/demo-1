@@ -16,10 +16,8 @@
 3. 
 
 
-
-
-## github job
-1. [github job](https://jobs.github.com/positions)
+## vps
+1. [控制台](http://199.231.87.194:4082/index.php?act=login&redirect=%2F)
 2. 
 
 ## js
