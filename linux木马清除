@@ -1,8 +1,7 @@
 
+# Linux的chattr与lsattr命令详解
+http://www.ha97.com/5172.html
 
-#http://www.ha97.com/5172.html
-
-（总结）Linux的chattr与lsattr命令详解
 发表于: Linux, Security, UNIX, 个人日记, 原创总结 | 作者: 博客教主
 标签: chattr,Linux,lsattr,命令详解,总结
 PS：有时候你发现用root权限都不能修改某个文件，大部分原因是曾经用chattr命令锁定该文件了。chattr命令的作用很大，其中一些功能是由Linux内核版本来支持的，不过现在生产绝大部分跑的linux系统都是2.6以上内核了。通过chattr命令修改属性能够提高系统的安全性，但是它并不适合所有的目录。chattr命令不能保护/、/dev、/tmp、/var目录。lsattr命令是显示chattr命令设置的文件属性。
@@ -27,32 +26,32 @@ s：保密性地删除文件或目录，即硬盘空间被全部收回。
 u：与s相反，当设定为u时，数据内容其实还存在磁盘中，可以用于undeletion。
 各参数选项中常用到的是a和i。a选项强制只可添加不可删除，多用于日志系统的安全设定。而i是更为严格的安全设定，只有superuser (root) 或具有CAP_LINUX_IMMUTABLE处理能力（标识）的进程能够施加该选项。
 
-应用举例：
+##应用举例：
 
 1、用chattr命令防止系统中某个关键文件被修改：
-# chattr +i /etc/resolv.conf
+  chattr +i /etc/resolv.conf
 
 然后用mv /etc/resolv.conf等命令操作于该文件，都是得到Operation not permitted 的结果。vim编辑该文件时会提示W10: Warning: Changing a readonly file错误。要想修改此文件就要把i属性去掉： chattr -i /etc/resolv.conf
 
-# lsattr /etc/resolv.conf
+  lsattr /etc/resolv.conf
 会显示如下属性
 ----i-------- /etc/resolv.conf
 
 2、让某个文件只能往里面追加数据，但不能删除，适用于各种日志文件：
-# chattr +a /var/log/messages
+  chattr +a /var/log/messages
 
 查看当前登录用户
-# w
+  w
 查看帮助
-# man
+  man
 查看执行文件
-# which
+  which
 
+#linux shell 查看进程的可执行程序路径
+http://www.cnblogs.com/gaohuag/archive/2012/10/25/2738685.html
 
-#http://www.cnblogs.com/gaohuag/archive/2012/10/25/2738685.html
-linux shell 查看进程的可执行程序路径
-# ps -el | grep hello
-# ls -l /proc/19120/exe | awk '{print $11}'
+  ps -el | grep hello
+  ls -l /proc/19120/exe | awk '{print $11}'
 
 #http://www.jb51.net/LINUXjishu/19905.html crontab 命令
 # -l 列表 -d 删除
