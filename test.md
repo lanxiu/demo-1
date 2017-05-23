@@ -15,8 +15,7 @@ This is an H1
 
 This is an H2
 -------------
-
-************
+ 
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
@@ -25,7 +24,7 @@ This is an H2
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
-*****************
+ 
 
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -57,6 +56,39 @@ id sem consectetuer libero luctus adipiscing.
 3.  Parish
 
 
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+    viverra nec, fringilla in, laoreet vitae, risus.
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+    Suspendisse id sem consectetuer libero luctus adipiscing.
+
+
+
+*   Bird
+*   Magic
+
+
+1.  This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
+
+2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+
+
+
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
+
+
+   <div class="footer">
+        &copy; 2004 Foo Corporation
+   </div>
 
 
 
