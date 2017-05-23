@@ -26,7 +26,7 @@ s：保密性地删除文件或目录，即硬盘空间被全部收回。
 u：与s相反，当设定为u时，数据内容其实还存在磁盘中，可以用于undeletion。
 各参数选项中常用到的是a和i。a选项强制只可添加不可删除，多用于日志系统的安全设定。而i是更为严格的安全设定，只有superuser (root) 或具有CAP_LINUX_IMMUTABLE处理能力（标识）的进程能够施加该选项。
 
-##应用举例：
+## 应用举例：
 
 1、用chattr命令防止系统中某个关键文件被修改：
   chattr +i /etc/resolv.conf
@@ -47,32 +47,35 @@ u：与s相反，当设定为u时，数据内容其实还存在磁盘中，可�
 查看执行文件
   which
 
-#linux shell 查看进程的可执行程序路径
+# linux shell 查看进程的可执行程序路径
 http://www.cnblogs.com/gaohuag/archive/2012/10/25/2738685.html
 
   ps -el | grep hello
   ls -l /proc/19120/exe | awk '{print $11}'
 
-#http://www.jb51.net/LINUXjishu/19905.html crontab 命令
-# -l 列表 -d 删除
+#  crontab 命令
+ http://www.jb51.net/LINUXjishu/19905.html
+ -l 列表 -d 删除
 
-#http://www.dwhd.org/20150908_191437.html?mType=Group
 
-linux 开机启动
-# /etc/rc.d/{init.d,rc{1,2,3,4,5}.d}/
-# crontab -l
-# /etc/cron.*
+# 木马查杀程序
+ http://www.dwhd.org/20150908_191437.html?mType=Group
 
-查看进程占用，显示不出来
-# top
+## linux 开机启动
+  /etc/rc.d/{init.d,rc{1,2,3,4,5}.d}/
+  crontab -l
+  /etc/cron.*
 
-查看磁盘使用，%idle 低于70% ？？
-# iostat -c 1 3
-查看读写负载
-# iostat -x -d -k 1 3
+## 查看进程占用，显示不出来
+  top
 
-使用以下命令，减少显示数目后，可以看到
-# top -b -n1|head  
+## 查看磁盘使用，%idle 低于70% ？？
+  iostat -c 1 3
+## 查看读写负载
+  iostat -x -d -k 1 3
+
+## 使用以下命令，减少显示数目后，可以看到
+  top -b -n1|head  
 
 查看资源占用最多的进程，查找进程执行文件目录 /boot
 删除后恢复
