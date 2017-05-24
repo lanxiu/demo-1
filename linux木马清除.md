@@ -85,3 +85,8 @@ http://www.cnblogs.com/gaohuag/archive/2012/10/25/2738685.html
 查看到crontab下的恢复木马的程序，删除程序及木马源
 
 重启 世界清静
+
+# redis漏洞处理
+
+http://blog.jobbole.com/94518/
+
